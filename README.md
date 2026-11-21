@@ -7,7 +7,6 @@
 | **Director** | Jon Favreau |
 | **Starring** | Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges |
 | **Release Year** | 2008 |
-| **Box Office** | $585.8M |
 
 ## Highlights
 
